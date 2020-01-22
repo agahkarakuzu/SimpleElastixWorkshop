@@ -3,11 +3,13 @@ there are a couple of requirements that should be installed previous to the star
 
 - Jupyter Notebook
 - Python 3
-- PyTorch 1.3
+- torch==1.3
 - SimpleElastix - Python binding
-- Nibabel
-- H5py
-- Scipy
+- nibabel
+- h5py
+- scipy
+- matplotlib
+- ipywidgets
 
 If you are having any problems installing any of the packages, especially SimpleElastix, 
 which have some known issues with MacOS, please contact me via our Slack channel, or DM me there,
